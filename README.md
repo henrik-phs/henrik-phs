@@ -1,4 +1,4 @@
-## Oiii, eu sou Pedro 👋
+## Oiii, eu sou Pedro 👋 programador web full-stack
 
 <div align="center">
   <a href="https://github.com/henrik-phs">
@@ -16,6 +16,11 @@
   ![Snake animation](https://github.com/henrik-phs/henrik-phs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
+
+🌱 Atualmente estou aprendendo Laravel and Node.JS
+
 
 <!--
 **henrik-phs/henrik-phs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
