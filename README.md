@@ -1,4 +1,7 @@
-## Oiii, eu sou Pedro 👋 programador web full-stack
+## Olá, eu sou Pedro 👋 Seja bem-vindo
+
+Sou desenvolvedor Full-Stack, especialista em desenvolvimento de sistemas web e possuo experiência no desenvolvimento de uma plataforma de vendas online voltada para produtores e afiliados.
+
 
 <div align="center">
   <a href="https://github.com/henrik-phs">
