@@ -20,10 +20,6 @@ Sou desenvolvedor Full-Stack, especialista em desenvolvimento de sistemas web e 
  
 </div>
 
-##
-
-🌱 Atualmente estou aprendendo Laravel and Node.JS
-
 
 <!--
 **henrik-phs/henrik-phs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
