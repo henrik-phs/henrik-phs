@@ -1,6 +1,15 @@
 ## Olá, eu sou Pedro 👋 Seja bem-vindo
 
-Sou desenvolvedor Full-Stack, especialista em desenvolvimento de sistemas web e possuo experiência no desenvolvimento de uma plataforma de vendas online voltada para produtores e afiliados.
+🚀 Desenvolvedor Backend especializado em aplicações web escaláveis e APIs REST.
+
+Atualmente atuo no desenvolvimento de soluções backend no projeto Soluções Industriais, do Grupo Ideal Trends, utilizando tecnologias como Laravel, PHP, MySQL, APIs REST e integrações de sistemas.
+
+Possuo experiência no desenvolvimento e manutenção de plataformas web de alta disponibilidade, com foco em performance, arquitetura backend, integrações e regras de negócio.
+
+💻 Stack principal:
+Laravel • PHP • MySQL • REST API • Docker • Git • JavaScript
+
+Sempre buscando evolução contínua, boas práticas de desenvolvimento e construção de sistemas robustos e escaláveis.
 
 
 <div align="center">
